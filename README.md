@@ -1,1 +1,1 @@
-# deep-learning-assignments
+# Deep Learning Assignments
